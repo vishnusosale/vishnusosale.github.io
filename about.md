@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-  I am Vishnu Sosale working at [HackerEarth](https://www.hackerearth.com) as an [Android](http://www.android.com/) dev and this website contains few tutorials and some of the best practices on Android to help anybody who has just started off to learn Android. This website helps you to learn by doing with examples and code. All the code in this website are [Open Source](https://en.wikipedia.org/wiki/Open-source_software) and you can find the repos in my [GitHub page](https://github.com/vishnusosale).
+  I am Vishnu Sosale hacking at [HackerEarth](https://www.hackerearth.com) as an [Android](http://www.android.com/) dev. I mostly spend my free time developing apps, watching movies and TV shows. I love Indian food and pizzas, chocolates and ice-creams are heaven ;). I occasionally collect coins. I live in Bengaluru.

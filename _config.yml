@@ -3,7 +3,7 @@ title: Android Take-Aways
 email: sosalevishnu@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   One of the best Android blogs you could find to learn, code and deploy your
-  favaourite Android applications on Google Play.
+  favourite Android applications on Google Play.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: vishnusosale
