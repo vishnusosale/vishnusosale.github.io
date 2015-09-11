@@ -12,6 +12,6 @@ This blog assumes -
 2. You have basic OOP concepts and preferably basics of Java.  
 3. You have setup [Android Studio](https://developer.android.com/sdk/index.html) in your dev machine.  
 
-All the code show in this website are [Open Source](https://en.wikipedia.org/wiki/Open-source_software) and you can find the repos in my [GitHub page](https://github.com/vishnusosale).
+All the code shown in this website are [Open Source](https://en.wikipedia.org/wiki/Open-source_software) and you can find the repos in my [GitHub page](https://github.com/vishnusosale).
 
 If you want to build apps that have more than a "Hello World" or a Button, this blog is for you!
